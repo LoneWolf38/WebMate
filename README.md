@@ -1,4 +1,4 @@
-![](./img/web-crawlers.jpg)
+![](./img/parasite-512.png)
 
 
 # WebMate
