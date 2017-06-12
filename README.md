@@ -1,6 +1,6 @@
-![](./img/parasite-512.png)    
-# WebMate
+![](./img/webimg.png)    
 
 
+#### A Web scraping program of a website 
 
-A Simple web crawler
+
